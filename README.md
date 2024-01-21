@@ -1,16 +1,36 @@
-# note_app
+## Note Keep Up 📝
 
-A new Flutter project.
+A sleek mobile app, inspired by Google Keep, developed with Flutter + Hive. Ideal for practicing prototyping and honing Flutter skills. 🚀
 
-## Getting Started
+## 📌 Features
+- ✍️ Create, edit, and delete notes.
+- 🎨 Customize notes with colors.
+- 🌈 Support for light and dark themes.
+- 🔍 Search functionality.
+- 📤 Share notes with others.
+- 🚀 Smooth performance with Flutter.
+- 📱 Cross-platform compatibility.
+- 📊 Minimalist user interface with a beautiful day and night mode.
+- 📝 Add and manage notes effortlessly with a user-friendly UI.
 
-This project is a starting point for a Flutter application.
+## 🎥 Video
+https://github.com/haithemnini/note_keep_up/assets/88515475/538659e7-4abc-437e-b7f1-edb035a29c0b
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
+![Frame-1](https://github.com/haithemnini/note_keep_up/assets/88515475/3691b37e-1d43-434b-842e-3fc58a0de978)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Application Technology:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. 🏛 Clean Architecture :
+- Designing a clean architectural system to achieve separation between layers and organize code systematically.
+2. 🔄 State Manager - BloC :
+- Utilizing Bloc as the state manager to handle application state and facilitate interaction between elements.
+3. 🗺 Navigation - GoRoute :
+- Adopting GoRoute technology for effective navigation management and organization within the application.
+4. 📁 Database - Hive & Shared Preferences :
+- Using Hive and Shared Preferences for managing the database and storing local data.
+5. 🎨 Font - Google Fonts : 
+- Incorporating Google Fonts to enhance the visual appearance of text within the application.
+  
+Feel free to contribute and enhance the app! 🚀
+
