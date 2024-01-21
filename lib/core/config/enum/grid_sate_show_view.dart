@@ -1,0 +1,4 @@
+enum GridStatus {
+  singleView,
+  multiView,
+}
